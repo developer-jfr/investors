@@ -1,0 +1,642 @@
+[
+    {
+        "id": "1634661401322",
+        "program": " Techstars",
+        "image": "//logo.clearbit.com/https://www.techstars.com/?size=20",
+        "type": "Accelerator",
+        "location": "Boulder Colorado United States",
+        "service": "Finance, Financial Services, Venture Capital",
+        "emp": "21-50",
+        "linked": {
+            "techart": "https://www.techstars.com/",
+            "linkedin": "https://www.linkedin.com/company/techstars/",
+            "facebook": "https://www.facebook.com/techstars",
+            "twitter": "https://twitter.com/techstars"
+        },
+        "info": {
+            "title": "Techstars",
+            "overall_destinition": "\n                                                                                     \n                                                        Boulder, Colorado \n                                            ",
+            "image": "//logo.clearbit.com/https://www.techstars.com/",
+            "generalInfo": {
+                "desciption": "Techstars is a - Boulder, Colorado, United States - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Boulder Colorado United States",
+                "keywors_servises": "Finance, Financial Services, Venture Capital",
+                "founded_date": "01-10-2006",
+                "revenue_range": "$1M to $10M (USD - United States Dollar)",
+                "revenue_currency": "USD - United States Dollar",
+                "total_founders": "4",
+                "founders_name": "Brad Feld, David Brown, David Cohen, Jared Polis",
+                "number_of_employees": "Number of Employees"
+            },
+            "fundingDeatils": {
+                "funding_rounds": "5",
+                "funding_status": "Early Stage Venture",
+                "lasr_funding_date": "30-07-2019",
+                "last_funding_amount": "42000000 (GBP - United Kingdom Pound)",
+                "last_funding_amount_currency": "GBP - United Kingdom Pound",
+                "last_funding_type": "Series B",
+                "last_equite_funding_amount": "42000000 ()",
+                "last_equite_funding_type": "Series B",
+                "total_equite_funding_amount": "103800000 ()",
+                "total_funding_amount": "103800000 ()"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "1",
+                "total_investors": "10"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "https://www.techstars.com/",
+                "facebook": "https://www.facebook.com/techstars",
+                "twitter": "https://twitter.com/techstars",
+                "linkedin": "",
+                "phone_number": " +1 303-720-6559"
+            },
+            "location": {
+                "location": "Boulder, Colorado",
+                "link_destinition": "https://www.google.com/maps/dir/?api=1&destination=40.01499,-105.27055"
+            },
+            "features": {
+                "accelerator_progarm_type": "Online"
+            }
+        }
+    },
+    {
+        "id": "1634661401323",
+        "program": " Bayer",
+        "image": "//logo.clearbit.com/https://www.bayer.com/?size=20",
+        "type": "",
+        "location": "Leverkusen, Nordrhein-Westfalen, Germany",
+        "service": "Biotechnology, Health Care, Life Science, Medical, Personal Health, Pharmaceutical",
+        "emp": "10001+",
+        "linked": {
+            "techart": "https://www.bayer.com/",
+            "linkedin": "https://www.linkedin.com/company/bayer/",
+            "facebook": "http://www.facebook.com/Bayer/",
+            "twitter": "https://twitter.com/bayer"
+        },
+        "info": {
+            "title": "Bayer",
+            "overall_destinition": "\n                                            ",
+            "image": "//logo.clearbit.com/https://www.bayer.com/",
+            "generalInfo": {
+                "desciption": "Bayer is a - Leverkusen, Nordrhein-Westfalen, Germany - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Leverkusen, Nordrhein-Westfalen, Germany",
+                "keywors_servises": "Biotechnology, Health Care, Life Science, Medical, Personal Health, Pharmaceutical",
+                "founded_date": "1863-08-01",
+                "revenue_range": "2",
+                "revenue_currency": "Friedrich Bayer, Johann Friedrich Weskott",
+                "total_founders": "10001+",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "1",
+                "funding_status": "M&A",
+                "lasr_funding_date": "17-04-2018",
+                "last_funding_amount": "3000000000 (EUR)",
+                "last_funding_amount_currency": "EUR",
+                "last_funding_type": "Post-IPO Equity",
+                "last_equite_funding_amount": "3000000000 (EUR)",
+                "last_equite_funding_type": "EUR",
+                "total_equite_funding_amount": "Post-IPO Equity",
+                "total_funding_amount": "3000000000 (EUR)"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "1",
+                "total_investors": "1"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Public"
+            },
+            "contacts": {
+                "techstars": "https://www.bayer.com/",
+                "facebook": "http://www.facebook.com/Bayer/",
+                "twitter": "https://twitter.com/bayer",
+                "linkedin": "",
+                "phone_number": " 49 214 30 1"
+            },
+            "location": {
+                "location": "",
+                "link_destinition": ""
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401324",
+        "program": " National Institutes of Health",
+        "image": "//logo.clearbit.com/http://www.nih.gov?size=20",
+        "type": "Entrepreneurship Program",
+        "location": "Bethesda, Maryland, United States",
+        "service": "Biotechnology, Financial Services, Health Diagnostics, Marketing, Medical, Medical Device, Rehabilitation",
+        "emp": "10001+",
+        "linked": {
+            "techart": "http://www.nih.gov",
+            "linkedin": "http://www.linkedin.com/company/national-institutes-of-health",
+            "facebook": "http://www.facebook.com/nih.gov",
+            "twitter": "http://twitter.com/NIHforHealth"
+        },
+        "info": {
+            "title": "National Institutes of Health",
+            "overall_destinition": "\n                                                                                     \n                                                        Bethesda, Maryland \n                                            ",
+            "image": "//logo.clearbit.com/http://www.nih.gov",
+            "generalInfo": {
+                "desciption": "National Institutes of Health is a - Bethesda, Maryland, United States - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Bethesda, Maryland, United States",
+                "keywors_servises": "Biotechnology, Financial Services, Health Diagnostics, Marketing, Medical, Medical Device, Rehabilitation",
+                "founded_date": "1887-01-01",
+                "revenue_range": "10001+",
+                "revenue_currency": "",
+                "total_founders": "",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "2",
+                "funding_status": "Early Stage Venture",
+                "lasr_funding_date": "28-09-2017",
+                "last_funding_amount": "Series A",
+                "last_funding_amount_currency": "Series A",
+                "last_funding_type": "5000000 (USD)",
+                "last_equite_funding_amount": "",
+                "last_equite_funding_type": "",
+                "total_equite_funding_amount": "",
+                "total_funding_amount": ""
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "",
+                "total_investors": ""
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "http://www.nih.gov",
+                "facebook": "http://www.facebook.com/nih.gov",
+                "twitter": "http://twitter.com/NIHforHealth",
+                "linkedin": "",
+                "phone_number": " 844.517.3111"
+            },
+            "location": {
+                "location": "Bethesda, Maryland",
+                "link_destinition": "https://www.google.com/maps/dir/?api=1&destination=,"
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401324",
+        "program": " Creative Destruction Lab",
+        "image": "//logo.clearbit.com/http://www.creativedestructionlab.com/?size=20",
+        "type": "Accelerator, Angel Group, Entrepreneurship Program, Incubator, University Program",
+        "location": "Toronto, Ontario, Canada",
+        "service": "Advice, Angel Investment, Finance, Quantum Computing, Venture Capital",
+        "emp": "51-100",
+        "linked": {
+            "techart": "http://www.creativedestructionlab.com/",
+            "linkedin": "https://www.linkedin.com/company/creative-destruction-lab",
+            "facebook": "https://www.facebook.com/creativedestructionlab",
+            "twitter": "https://twitter.com/creativedlab"
+        },
+        "info": {
+            "title": "Creative Destruction Lab",
+            "overall_destinition": "\n                                                                                     \n                                                        Toronto, Ontario \n                                            ",
+            "image": "//logo.clearbit.com/http://www.creativedestructionlab.com/",
+            "generalInfo": {
+                "desciption": "Creative Destruction Lab is a - Toronto, Ontario, Canada - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Toronto, Ontario, Canada",
+                "keywors_servises": "Advice, Angel Investment, Finance, Quantum Computing, Venture Capital",
+                "founded_date": "01-08-2012",
+                "revenue_range": "$1M to $10M",
+                "revenue_currency": "2",
+                "total_founders": "Ajay Agrawal, Ajay Agrawal",
+                "founders_name": "51-100",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "2",
+                "funding_status": "09-10-2018",
+                "lasr_funding_date": "25000000 (USD)",
+                "last_funding_amount": "USD",
+                "last_funding_amount_currency": "Grant",
+                "last_funding_type": "4000000 (USD)",
+                "last_equite_funding_amount": "USD",
+                "last_equite_funding_type": "Venture - Series Unknown",
+                "total_equite_funding_amount": "4000000 (USD)",
+                "total_funding_amount": "29000000 (USD)"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "3",
+                "total_investors": "3"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "http://www.creativedestructionlab.com/",
+                "facebook": "https://www.facebook.com/creativedestructionlab",
+                "twitter": "https://twitter.com/creativedlab",
+                "linkedin": "",
+                "phone_number": ""
+            },
+            "location": {
+                "location": "Toronto, Ontario",
+                "link_destinition": "https://www.google.com/maps/dir/?api=1&destination=,"
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401324",
+        "program": " Y Combinator",
+        "image": "//logo.clearbit.com/http://www.ycombinator.com?size=20",
+        "type": "Accelerator",
+        "location": "Mountain View, California, United States",
+        "service": "Consulting, Finance, Venture Capital",
+        "emp": "11-50",
+        "linked": {
+            "techart": "http://www.ycombinator.com",
+            "linkedin": "https://www.linkedin.com/company/y-combinator/",
+            "facebook": "http://www.facebook.com/YCombinator",
+            "twitter": "http://twitter.com/ycombinator"
+        },
+        "info": {
+            "title": "Y Combinator",
+            "overall_destinition": "\n                                                                                     \n                                                        Mountain View, California \n                                            ",
+            "image": "//logo.clearbit.com/http://www.ycombinator.com",
+            "generalInfo": {
+                "desciption": "Y Combinator is a - Mountain View, California, United States - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Mountain View, California, United States",
+                "keywors_servises": "Consulting, Finance, Venture Capital",
+                "founded_date": "01-03-2005",
+                "revenue_range": "5",
+                "revenue_currency": "Andrew Levy, Jessica Livingston, Paul Graham, Robert Morris, Trevor Blackwell",
+                "total_founders": "11-50",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "3",
+                "funding_status": "02-05-2016",
+                "lasr_funding_date": "15000000 (USD)",
+                "last_funding_amount": "USD",
+                "last_funding_amount_currency": "Debt Financing",
+                "last_funding_type": "8250000 (USD)",
+                "last_equite_funding_amount": "USD",
+                "last_equite_funding_type": "Venture - Series Unknown",
+                "total_equite_funding_amount": "10250000 (USD)",
+                "total_funding_amount": "25250000 (USD)"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "1",
+                "total_investors": "7"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "http://www.ycombinator.com",
+                "facebook": "http://www.facebook.com/YCombinator",
+                "twitter": "http://twitter.com/ycombinator",
+                "linkedin": "",
+                "phone_number": ""
+            },
+            "location": {
+                "location": "Mountain View, California",
+                "link_destinition": "https://www.google.com/maps/dir/?api=1&destination=,"
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401325",
+        "program": " Entrepreneur First",
+        "image": "//logo.clearbit.com/http://www.joinef.com?size=20",
+        "type": "Accelerator",
+        "location": "London, England, United Kingdom",
+        "service": "Communities, Information Technology, Venture Capital",
+        "emp": "51-100",
+        "linked": {
+            "techart": "http://www.joinef.com",
+            "linkedin": "https://www.linkedin.com/company/2340783",
+            "facebook": "http://www.facebook.com/joinef",
+            "twitter": "http://twitter.com/join_ef"
+        },
+        "info": {
+            "title": "Entrepreneur First",
+            "overall_destinition": "\n                                            ",
+            "image": "//logo.clearbit.com/http://www.joinef.com",
+            "generalInfo": {
+                "desciption": "Entrepreneur First is a - London, England, United Kingdom - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "London, England, United Kingdom",
+                "keywors_servises": "Communities, Information Technology, Venture Capital",
+                "founded_date": "01-09-2011",
+                "revenue_range": "2",
+                "revenue_currency": "Alice Bentinck, Matt Clifford",
+                "total_founders": "51-100",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "6",
+                "funding_status": "01-02-2018",
+                "lasr_funding_date": "Venture - Series Unknown",
+                "last_funding_amount": "Venture - Series Unknown",
+                "last_funding_amount_currency": "22042201 (USD)",
+                "last_funding_type": "22042201 (USD)",
+                "last_equite_funding_amount": "",
+                "last_equite_funding_type": "",
+                "total_equite_funding_amount": "",
+                "total_funding_amount": ""
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "2",
+                "total_investors": "12"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "http://www.joinef.com",
+                "facebook": "http://www.facebook.com/joinef",
+                "twitter": "http://twitter.com/join_ef",
+                "linkedin": "",
+                "phone_number": ""
+            },
+            "location": {
+                "location": "",
+                "link_destinition": ""
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401325",
+        "program": " Citigroup",
+        "image": "//logo.clearbit.com/https://www.citigroup.com?size=20",
+        "type": "Private Equity Firm",
+        "location": "New York, New York, United States",
+        "service": "Banking, Credit Cards, Financial Services, Wealth Management",
+        "emp": "10001+",
+        "linked": {
+            "techart": "https://www.citigroup.com",
+            "linkedin": "https://www.linkedin.com/company/citi",
+            "facebook": "https://www.facebook.com/citi",
+            "twitter": "https://twitter.com/citi"
+        },
+        "info": {
+            "title": "Citigroup",
+            "overall_destinition": "\n                                            ",
+            "image": "//logo.clearbit.com/https://www.citigroup.com",
+            "generalInfo": {
+                "desciption": "Citigroup is a - New York, New York, United States - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "New York, New York, United States",
+                "keywors_servises": "Banking, Credit Cards, Financial Services, Wealth Management",
+                "founded_date": "1812-01-01",
+                "revenue_range": "10001+",
+                "revenue_currency": "",
+                "total_founders": "",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "2",
+                "funding_status": "IPO",
+                "lasr_funding_date": "08-05-2018",
+                "last_funding_amount": "1200000000 (USD)",
+                "last_funding_amount_currency": "USD",
+                "last_funding_type": "Post-IPO Equity",
+                "last_equite_funding_amount": "1200000000 (USD)",
+                "last_equite_funding_type": "USD",
+                "total_equite_funding_amount": "Post-IPO Equity",
+                "total_funding_amount": "8700000000 (USD)"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "2",
+                "total_investors": "2"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Public"
+            },
+            "contacts": {
+                "techstars": "https://www.citigroup.com",
+                "facebook": "https://www.facebook.com/citi",
+                "twitter": "https://twitter.com/citi",
+                "linkedin": "",
+                "phone_number": ""
+            },
+            "location": {
+                "location": "",
+                "link_destinition": ""
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401326",
+        "program": " Tencent Holdings",
+        "image": "https://timesprospect.com/frontend/images/placeholder/company-icon.png",
+        "type": "",
+        "location": "Shenzhen, Guangdong, China",
+        "service": "Advertising, Internet, Mobile, Online Games, Social Media Marketing",
+        "emp": "10001+",
+        "linked": {
+            "techart": "https://www.tencent.com/en-us/",
+            "linkedin": "https://www.linkedin.com/company/166328/",
+            "facebook": "https://www.facebook.com/TencentGlobal/",
+            "twitter": "https://twitter.com/tencentglobal"
+        },
+        "info": {
+            "title": "Tencent Holdings",
+            "overall_destinition": "\n                                                                                     \n                                                        Shenzhen, Guangdong \n                                            ",
+            "image": "https://timesprospect.com/frontend/images/placeholder/full_item_feature_image_tiny.webp",
+            "generalInfo": {
+                "desciption": "Tencent Holdings is a - Shenzhen, Guangdong, China - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Shenzhen, Guangdong, China",
+                "keywors_servises": "Advertising, Internet, Mobile, Online Games, Social Media Marketing",
+                "founded_date": "01-11-1998",
+                "revenue_range": "3",
+                "revenue_currency": "Chen Ye Xu, Pony Ma, Zhidong Zhang",
+                "total_founders": "10001+",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "4",
+                "funding_status": "IPO",
+                "lasr_funding_date": "26-06-2018",
+                "last_funding_amount": "44350000 (USD)",
+                "last_funding_amount_currency": "USD",
+                "last_funding_type": "Post-IPO Equity",
+                "last_equite_funding_amount": "44350000 (USD)",
+                "last_equite_funding_type": "USD",
+                "total_equite_funding_amount": "Post-IPO Equity",
+                "total_funding_amount": "76770000 (USD)"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "2",
+                "total_investors": "4"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Public"
+            },
+            "contacts": {
+                "techstars": "https://www.tencent.com/en-us/",
+                "facebook": "https://www.facebook.com/TencentGlobal/",
+                "twitter": "https://twitter.com/tencentglobal",
+                "linkedin": "",
+                "phone_number": " 86 75 5860 13388"
+            },
+            "location": {
+                "location": "Shenzhen, Guangdong",
+                "link_destinition": "https://www.google.com/maps/dir/?api=1&destination=,"
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401326",
+        "program": " Ola",
+        "image": "//logo.clearbit.com/http://www.olacabs.com?size=20",
+        "type": "",
+        "location": "Kormangala, Karnataka, India",
+        "service": "Apps, E-Commerce, Internet, Mobile, Ride Sharing, Transportation",
+        "emp": "5001-10000",
+        "linked": {
+            "techart": "http://www.olacabs.com",
+            "linkedin": "http://www.linkedin.com/company/olacabs-com/",
+            "facebook": "http://www.facebook.com/olacabs",
+            "twitter": "http://twitter.com/olacabs"
+        },
+        "info": {
+            "title": "Ola",
+            "overall_destinition": "\n                                            ",
+            "image": "//logo.clearbit.com/http://www.olacabs.com",
+            "generalInfo": {
+                "desciption": "Ola is a - Kormangala, Karnataka, India - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Kormangala, Karnataka, India",
+                "keywors_servises": "Apps, E-Commerce, Internet, Mobile, Ride Sharing, Transportation",
+                "founded_date": "03-12-2010",
+                "revenue_range": "$100M to $500M",
+                "revenue_currency": "2",
+                "total_founders": "Ankit Bhati, Bhavish Aggarwal",
+                "founders_name": "5001-10000",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "23",
+                "funding_status": "Late Stage Venture",
+                "lasr_funding_date": "03-07-2019",
+                "last_funding_amount": "11370000 (USD)",
+                "last_funding_amount_currency": "USD",
+                "last_funding_type": "Series J",
+                "last_equite_funding_amount": "11370000 (USD)",
+                "last_equite_funding_type": "USD",
+                "total_equite_funding_amount": "Series J",
+                "total_funding_amount": "3422591358 (USD)"
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "21",
+                "total_investors": "42"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "http://www.olacabs.com",
+                "facebook": "http://www.facebook.com/olacabs",
+                "twitter": "http://twitter.com/olacabs",
+                "linkedin": "",
+                "phone_number": " 080-67350900"
+            },
+            "location": {
+                "location": "",
+                "link_destinition": ""
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    },
+    {
+        "id": "1634661401326",
+        "program": " Stanford University",
+        "image": "//logo.clearbit.com/http://www.stanford.edu?size=20",
+        "type": "University Program",
+        "location": "Stanford, California, United States",
+        "service": "Biotechnology, Communities, Computer, Education, Management Consulting, Market Research, Mobile Apps, Service Industry, Universities, Virtual Reality",
+        "emp": "10001+",
+        "linked": {
+            "techart": "http://www.stanford.edu",
+            "linkedin": "http://www.linkedin.com/company/stanford-university",
+            "facebook": "http://www.facebook.com/6192688417",
+            "twitter": "http://twitter.com/Stanford"
+        },
+        "info": {
+            "title": "Stanford University",
+            "overall_destinition": "\n                                                                                     \n                                                        Stanford, California \n                                            ",
+            "image": "//logo.clearbit.com/http://www.stanford.edu",
+            "generalInfo": {
+                "desciption": "Stanford University is a - Stanford, California, United States - based organization and it primariliy provides Investment related solutions",
+                "headquarter": "Stanford, California, United States",
+                "keywors_servises": "Biotechnology, Communities, Computer, Education, Management Consulting, Market Research, Mobile Apps, Service Industry, Universities, Virtual Reality",
+                "founded_date": "1885-11-11",
+                "revenue_range": "1",
+                "revenue_currency": "GEORGE KEMBEL",
+                "total_founders": "10001+",
+                "founders_name": "",
+                "number_of_employees": ""
+            },
+            "fundingDeatils": {
+                "funding_rounds": "1",
+                "funding_status": "22-07-2019",
+                "lasr_funding_date": "5000000 (USD)",
+                "last_funding_amount": "USD",
+                "last_funding_amount_currency": "Grant",
+                "last_funding_type": "5000000 (USD)",
+                "last_equite_funding_amount": "",
+                "last_equite_funding_type": "",
+                "total_equite_funding_amount": "",
+                "total_funding_amount": ""
+            },
+            "investorsDeatils": {
+                "total_lead_investors": "1",
+                "total_investors": "1"
+            },
+            "ipoDeails": {
+                "ipoStatus": "Private"
+            },
+            "contacts": {
+                "techstars": "http://www.stanford.edu",
+                "facebook": "http://www.facebook.com/6192688417",
+                "twitter": "http://twitter.com/Stanford",
+                "linkedin": "",
+                "phone_number": " 650-723-4581"
+            },
+            "location": {
+                "location": "Stanford, California",
+                "link_destinition": "https://www.google.com/maps/dir/?api=1&destination=,"
+            },
+            "features": {
+                "accelerator_progarm_type": ""
+            }
+        }
+    }
+]
